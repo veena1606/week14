@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/veena1606/week14/static/css/main.e6c13ad2.css",
+    "main.js": "/veena1606/week14/static/js/main.73c8fd6b.js",
+    "static/js/453.ac79db8d.chunk.js": "/veena1606/week14/static/js/453.ac79db8d.chunk.js",
+    "index.html": "/veena1606/week14/index.html",
+    "main.e6c13ad2.css.map": "/veena1606/week14/static/css/main.e6c13ad2.css.map",
+    "main.73c8fd6b.js.map": "/veena1606/week14/static/js/main.73c8fd6b.js.map",
+    "453.ac79db8d.chunk.js.map": "/veena1606/week14/static/js/453.ac79db8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.73c8fd6b.js"
+  ]
+}
